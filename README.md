@@ -30,3 +30,7 @@ public:
     auto use_count() const -> size_t;
 };
 ```
+
+# Результат
+
+[![Build Status](https://travis-ci.org/Verestchagin/lab-03-shared-ptr.svg?branch=master)](https://travis-ci.org/Verestchagin/lab-03-shared-ptr)
